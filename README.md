@@ -1,4 +1,5 @@
-# CPAL - Cross-Platform Audio Library
+# CPAL - Cross-Platform Audio Library Fork
+This fork adds additional capabilities for capturing audio from specific processes on windows.
 
 [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg)](https://github.com/RustAudio/cpal/actions)
  [![Crates.io](https://img.shields.io/crates/v/cpal.svg)](https://crates.io/crates/cpal) [![docs.rs](https://docs.rs/cpal/badge.svg)](https://docs.rs/cpal/)
